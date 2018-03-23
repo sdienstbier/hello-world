@@ -1,2 +1,2 @@
 # hello-world
-just a hello world thing
+I like to see how I use github.
